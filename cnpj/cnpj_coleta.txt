@@ -1,0 +1,11 @@
+Utilize nosso gerador de CNPJ, basta clicar em "Gerar CNPJ" e pronto!
+ Um novo número de CNPJ válido será gerado. 
+Você ainda tem opção de colocar ou não os "pontos" entre os números.
+cnpj1: 88150155000155
+Nosso gerador online de CNPJ tem como intenção ajudar estudantes, programadores, analistas
+ e testadores a gerar CNPJ válidos. Normalmente necessários parar testar seus softwares em
+ desenvolvimento.
+A má utilização dos dados aqui gerados é de total responsabilidade do usuário.
+Os números são gerados de forma aleatória, respeitando as regras de criação de cada documento.
+Disponível em: https://www.4devs.com.br/gerador_de_cnpj
+cnpj2: 92794678000101
